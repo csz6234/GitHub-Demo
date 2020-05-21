@@ -1,4 +1,4 @@
-an example of change
+an example of change 
 
 ## Welcome to GitHub Pages
 
