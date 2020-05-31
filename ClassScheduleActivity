@@ -1,0 +1,44 @@
+---
+title: "RMarkdown Class Schedule"
+author: "Nicholas Sterge"
+date: "May 19, 2020"
+output:
+  html_notebook:
+    df_print: paged
+---
+
+# Class Schedule
+
+### STAT 184: Introduction to R Programming
+
+ 	
+R is a powerful, open-source programming language used widely for applications in statistics and data science. 
+It is easily extendible, and thousands of user-created packages are publicly available to extend its capabilities. 
+This course will introduce students to data computing fundamentals and a reproducible workflow using the R 
+programming language and related tools. Students will be expected to access, join, wrangle, clean, and visualize 
+real data from various sources (e.g. CSV, HTML scraping, web URL, R packages). The course will emphasize use of 
+"tidyverse" R packages (e.g. dplyr, ggplot2), although students will also be exposed to Base R and other packages.
+In addition, students will be exposed to one or more integrated development environments (e.g. RStudio) and will 
+be expected to write well-documented code using a reproducible workflow (e.g. RMarkdown, Git/GitHub). The course 
+focuses on descriptive and graphical summary techniques rather than inferential statistical techniques 
+
+### CMPSC 221
+
+ 	
+The course covers advanced object-oriented principles and their application to web-based, net-centric computing.
+Major topics include virtual machines, intermediate code generation (Java-specific), graphical user interfaces 
+(GUI) design, event handling, server-side programming with database queries, and security, permissions and file 
+management concepts for client/server systems. Extensive programming assignments provide an understanding of the
+entire process of client/server development including interface prototyping, program design, implementation of 
+both client and server programs, unit testing, and documentation. This course prepares students to meet immediate 
+demands in solving complex computational problems. 
+
+### STAT 414
+
+STAT 414 / MATH 414 is an introduction to the theory of probability for students in statistics, mathematics, 
+engineering, computer science, and related fields. The course presents students with calculus-based probability 
+concepts and those concepts can be used to describe the uncertainties present in real applications. Topics include
+probability spaces, discrete and continuous random variables, transformations, expectations, generating functions,
+conditional distributions, law of large numbers, central limit theorems. Most students are recommended to sequentially 
+take MATH 230 or MATH 231 prior to STAT414 / MATH 414, although the alignment of the topics in each class permit
+concurrent enrollment. Students may take only one course from STAT 414 / MATH 414 and STAT 418 / MATH 418.
